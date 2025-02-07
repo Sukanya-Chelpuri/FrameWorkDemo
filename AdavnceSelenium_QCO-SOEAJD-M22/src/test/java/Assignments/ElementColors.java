@@ -10,10 +10,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class ElementColors {
 
-	
-//im shobha
-	//im selenium
-	//no im selenium webdriver
+//im smoke branch	
+
 	public static void main(String[] args) {
 		
 		WebDriver driver=new ChromeDriver();
